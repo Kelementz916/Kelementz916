@@ -1,12 +1,11 @@
-[# Hi There! 👋
+# Hi There! 👋
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Kelementz916)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Kelementz916.id)
 
 ## A Passionate Full Stack Software Development Engineer
 
-[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile/)
-[![Portfolio](https://img.shields.io/badge/-PORTFOLIO-000000?style=for-the-badge&logo=react&logoColor=white)](https://your-portfolio-url.com/)
+[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kevincan415@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevincan/)
 
 🚀 I'm currently working on NextJS Products
 
@@ -26,20 +25,15 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 
 ### DevOps - Testing
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 ![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white)
 
 ## 🌿 My Contributions 🌿
 
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=react-dark)](https://www.linkedin.com/in/kevincan/)
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kelementz916&theme=react-dark)
 
 <!--
 **Kelementz916/Kelementz916** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
