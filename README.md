@@ -1,6 +1,6 @@
-# Hi There! 👋
+[# Hi There! 👋
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=your.username.id)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Kelementz916)
 
 ## A Passionate Full Stack Software Development Engineer
 
@@ -39,7 +39,7 @@
 
 ## 🌿 My Contributions 🌿
 
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=react-dark)
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=react-dark)](https://www.linkedin.com/in/kevincan/)
 
 <!--
 **Kelementz916/Kelementz916** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
