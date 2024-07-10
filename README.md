@@ -1,4 +1,4 @@
-# Welcome Visitors! 👋
+# Welcome Visitor! 👋
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Kelementz916.id)
 
