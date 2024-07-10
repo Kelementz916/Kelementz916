@@ -1,4 +1,4 @@
-# Hi There! 👋
+# Welcome Visitors! 👋
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Kelementz916.id)
 
@@ -7,9 +7,9 @@
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kevincan415@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevincan/)
 
-🚀 I'm currently working on OverVue, an open-source Vue application prototyping tool with 2.5k GitHub stars
+🚀 I'm currently working on an unreleased product in-the-making. A fullstack application using NextJS for a robust application development.
 
-🌱 I'm passionate about optimizing performance, improving user experience, and standardizing development practices
+🌱 I'm passionate about optimizing performance, improving user experiences, and standardizing development practices.
 
 ## 🛠 Skills
 
