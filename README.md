@@ -51,7 +51,3 @@
 
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kelementz916&theme=react-dark)
 
-## 📚 Education
-
-- B.S./M.S. Nursing, Magna Cum Laude | San Francisco State University (Jan 2021)
-- B.S. Physiology | San Francisco State University (Aug 2017)
