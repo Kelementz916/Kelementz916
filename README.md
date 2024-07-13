@@ -17,17 +17,6 @@
 - Explore diverse tastes and flavor profiles
 - Save and customize their preferences
 
-🛠️ Tech stack:
-- Next.js
-- React
-- TypeScript
-- Redux Toolkit
-- Express
-- PostgreSQL
-- Tailwind CSS
-- Framer Motion
-- Vite
-- Vitest
 
 Stay tuned for updates!
 
