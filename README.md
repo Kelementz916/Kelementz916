@@ -1,11 +1,18 @@
-# Hi there! 👋 I'm Kevin Can
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Kelementz916.id)
-
-## Full Stack Software Engineer
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kevincan415@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevincan/)
+
+# Hi there! 👋 I'm Kevin Can, a Full Stack Software Engineer
+
+I'm passionate about creating robust, user-centric web applications. With a background in healthcare and a transition to tech, I bring a unique perspective to problem-solving and teamwork.
+
+🚀 Currently contributing to OverVue, an open-source Vue.js prototyping tool with 2.5k+ GitHub stars
+💻 Experienced in JavaScript, TypeScript, React, Vue.js, Node.js, and more
+🌱 Always learning and exploring new technologies
+🤝 Open to collaborations and exciting projects
+
+Let's connect and build something amazing together!
 
 ## Current Project
 
@@ -59,6 +66,8 @@ Stay tuned for updates!
 
 ### Open Source Projects
 - [Job Journey](#): React-based job tracker application
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Kelementz916.id)
 - [Vacation Travel App](#): Full-stack app with React, Express, and MongoDB
 
 ## 🌿 My Contributions 🌿
