@@ -7,7 +7,30 @@
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kevincan415@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevincan/)
 
-🚀 I'm currently working on an unreleased product with Next.js, focusing on robust application development and innovative user experiences.
+## Current Project
+
+🚀 Developing an unreleased product using Next.js
+
+📱 Focus: Robust application development and innovative user experiences
+
+🍽️ Building an interactive platform where users can:
+- Explore diverse tastes and flavor profiles
+- Save and customize their preferences
+
+🛠️ Tech stack:
+- Next.js
+- React
+- TypeScript
+- Redux Toolkit
+- Express
+- PostgreSQL
+- Tailwind CSS
+- Framer Motion
+- Vite
+- Vitest
+
+Stay tuned for updates!
+
 
 🌱 I'm passionate about optimizing performance, improving user experiences, and standardizing development practices using the latest technologies.
 
