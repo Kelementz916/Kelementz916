@@ -23,8 +23,6 @@ Let's connect and build something amazing together!
 Stay tuned for updates!
 
 
-🌱 I'm passionate about optimizing performance, improving user experiences, and standardizing development practices using the latest technologies.
-
 ## 🛠 Skills & Tools
 
 ### Strong
