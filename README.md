@@ -5,7 +5,7 @@
 
 # Hi there! 👋 I'm Kevin Can, a Full Stack Software Engineer
 
-I'm passionate about creating robust, user-centric web applications. I bring a unique perspective to problem-solving and teamwork, and I am always seeking opportunities to optimize and increase efficiency.
+Passionate about creating robust, user-centric web applications. I bring a unique perspective to problem-solving, leveraging my diverse background to optimize workflows and increase efficiency. Always eager to collaborate on innovative projects.
 
 Let's connect and build something amazing together!
 
