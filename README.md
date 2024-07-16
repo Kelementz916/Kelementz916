@@ -7,14 +7,21 @@ I'm a fullstack Software Engineer passionate about creating robust, user-centric
 
 ## 🚀 Current Project
 
-I'm currently developing an unreleased product using Next.js, focusing on:
+I'm currently developing an unreleased product, leveraging a modern tech stack to create an innovative platform. Key features include:
 
-- 📱 Robust application development and innovative user experiences
-- 🍽️ Building an interactive platform where users can:
-  - Explore diverse tastes and flavor profiles
-  - Save and customize their preferences
+* 📱 Robust application development with the focus on enhanced user experiences
+* 🍽️ An interactive platform where users can explore diverse tastes, save preferences, and customize flavor profiles
 
-Stay tuned for updates!
+Technologies and tools I'm working with:
+
+* 🖥️ Frontend: Next.js, React, TypeScript, Redux Toolkit
+* 🎨 Styling: Tailwind CSS, Sass, Framer Motion for animations
+* 🗄️ Backend: Node.js with Express, PostgreSQL database
+* 🧪 Testing: Vitest, React Testing Library
+* 🛠️ Build & Development: Vite, npm scripts for workflow automation
+* 🔧 Code Quality: ESLint, TypeScript for type safety
+* 🚀 Performance: Leveraging Next.js optimizations and Sharp for image processing
+
 
 ## 🛠 Skills & Tools
 
