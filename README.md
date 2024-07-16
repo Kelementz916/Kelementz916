@@ -1,27 +1,20 @@
-
-
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kevincan415@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevincan/)
 
-# Hi there! 👋 I'm Kevin Can, a Full Stack Software Engineer
+# Hello, World! 👋 I'm Kevin
 
-Passionate about creating robust, user-centric web applications. I bring a unique perspective to problem-solving, leveraging my diverse background to optimize workflows and increase efficiency. Always eager to collaborate on innovative projects.
+I'm a fullstack Software Engineer passionate about creating robust, user-centric web applications. With a diverse background, I bring a unique perspective to problem-solving, optimizing workflows, and increasing efficiency. Always eager to collaborate on innovative projects!
 
-Let's connect and build something amazing together!
+## 🚀 Current Project
 
-## Current Project
+I'm currently developing an unreleased product using Next.js, focusing on:
 
-🚀 Developing an unreleased product using Next.js
-
-📱 Focus: Robust application development and innovative user experiences
-
-🍽️ Building an interactive platform where users can:
-- Explore diverse tastes and flavor profiles
-- Save and customize their preferences
-
+- 📱 Robust application development and innovative user experiences
+- 🍽️ Building an interactive platform where users can:
+  - Explore diverse tastes and flavor profiles
+  - Save and customize their preferences
 
 Stay tuned for updates!
-
 
 ## 🛠 Skills & Tools
 
@@ -68,11 +61,12 @@ Stay tuned for updates!
 
 ### Open Source Projects
 - [Job Journey](#): React-based job tracker application
-
 - [Vacation Travel App](#): Full-stack app with React, Express, and MongoDB
 
-## 🌿 My Contributions 🌿
+## 🌿 My Contributions
 
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kelementz916&theme=react-dark)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Kelementz916.id)
+
+Let's connect and build something amazing together!
