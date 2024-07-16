@@ -7,7 +7,7 @@ I'm a Full Stack Software Engineer passionate about creating robust, user-centri
 
 ## 🚀 Current Project
 
-I'm currently developing an unreleased product, leveraging a modern tech stack to create an innovative platform. Key features include:
+I'm currently developing an unreleased product, utilizing Next.js, React, Node.js, and more! Key features include:
 
 * 📱 Robust application development with the focus on enhanced user experiences
 * 🍽️ An interactive platform where users can explore diverse tastes, save preferences, and customize flavor profiles
