@@ -3,7 +3,7 @@
 
 # Hello, World! 👋 I'm Kevin
 
-I'm a fullstack Software Engineer passionate about creating robust, user-centric web applications. With a diverse background, I bring a unique perspective to problem-solving, optimizing workflows, and increasing efficiency. Always eager to collaborate on innovative projects!
+I'm a Full Stack Software Engineer passionate about creating robust, user-centric web applications. With a diverse background as a Registered Nurse and software engineer, I bring a unique perspective to problem-solving, optimizing workflows, and increasing efficiency. I'm always eager to collaborate on innovative projects and leverage modern technologies to build impactful solutions.
 
 ## 🚀 Current Project
 
@@ -64,7 +64,7 @@ Technologies and tools I'm working with:
 - Optimized project dependencies, boosting performance by 20%
 - Transitioned codebase to Vue 3's Composition API, reducing load times by 25%
 - Integrated TypeScript, reducing runtime errors by 30%
-- Implemented CI/CD processes, improving user experience across platforms by 25%
+- Implemented CI/CD processes, improving deployment efficiency by 25%
 
 ### Open Source Projects
 - [Job Journey](#): React-based job tracker application
