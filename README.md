@@ -74,6 +74,6 @@ Technologies and tools I'm working with:
 
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kelementz916&theme=react-dark)
 
-  [![HitCount](https://hits.dwyl.com/Kelementz916/https://githubcom/Kelementz916/Kelementz916/tree/main.svg?style=flat-square)](http://hits.dwyl.com/Kelementz916/https://githubcom/Kelementz916/Kelementz916/tree/main)
+![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=Kelementz916.profile)
 
 Let's connect and build something amazing together!
