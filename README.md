@@ -67,8 +67,8 @@ Technologies and tools I'm working with:
 - Implemented CI/CD processes, improving deployment efficiency by 25%
 
 ### Open Source Projects
-- [Job Journey](#): React-based job tracker application
-- [Vacation Travel App](#): Full-stack app with React, Express, and MongoDB
+- [Job Journey](https://github.com/Cozier-Cottage/job-journey): React-based job tracker application
+- [Vacation Travel App](https://github.com/Danger-Noodle-Hour/travel-app): Full-stack app with React, Express, and MongoDB
 
 ## 🌿 My Contributions
 
